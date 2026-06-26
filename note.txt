@@ -21,4 +21,12 @@ git push
     git push
 
     file màu xanh   file mới tạo
+    xanh dương: file có thay đổi
 
+
+    u: untracked
+    m:
+    a
+    d: delete
+    r: rename
+    c: conflix
