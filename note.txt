@@ -31,7 +31,10 @@ git push
     r: rename
     c: conflict
 
-git checkout : đi đến lần commit nào đó, hoặc đi về lại main.master
+git checkout: đi đến lần commit nào đó, hoặc đi về lại main.master
+
+git checkout -b "tên nhánh": đi đến nhánh mới
+git branch: gọi tên nhánh đang đứng
 branch: nhánh
 dòng code edit trực tiếp trên online
 hello cybersoft
