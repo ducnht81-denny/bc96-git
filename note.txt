@@ -30,3 +30,9 @@ git push
     d: delete
     r: rename
     c: conflict
+
+git checkout : đi đến lần commit nào đó, hoặc đi về lại main.master
+branch: nhánh
+
+123 123
+hello cybersoft
