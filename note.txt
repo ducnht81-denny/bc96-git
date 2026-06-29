@@ -33,6 +33,4 @@ git push
 
 git checkout : đi đến lần commit nào đó, hoặc đi về lại main.master
 branch: nhánh
-
-123 123
-hello cybersoft
+dòng code edit trực tiếp trên online
